@@ -2,3 +2,5 @@ Hello World, Happy Tuesday!
 Updated
 Update by new branch 'b1'
 Updated: b2(New Branch)
+
+>>>>>>>><<<<<<<<<<<<<<
