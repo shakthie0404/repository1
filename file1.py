@@ -4,4 +4,4 @@
 #simple print stmt
 print("This is my first file")
 
-updated ub collaborator
+updated by collaborator
